@@ -1,0 +1,23 @@
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -15px;
+    justify-content: center;
+
+}
+
+.col-4{
+    width: 33.3333%;
+    padding: 0 15px;
+
+}
+img{
+    width: 300px;
+    height: 350px;
+    margin: 20px;
+}
+
+.cloth-input{
+    margin: 0 5px;
+
+}

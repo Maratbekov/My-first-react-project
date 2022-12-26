@@ -1,0 +1,12 @@
+.col-3{
+    width: 25%;
+
+}
+.country-img{
+    width: 250px;
+    height: 200px;
+    object-fit: cover;
+}
+.country{
+    padding: 0 10px;
+}
